@@ -43,8 +43,3 @@ The Postman Library API collection includes the following endpoints:
    - **Description:** Example request to demonstrate skill check functionality.
    - **Test Script:** Saves the `actorName` value from the response to a collection variable named `favoriteActor`.
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/Postman-Library-API-Collection.git
